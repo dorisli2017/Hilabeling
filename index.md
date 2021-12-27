@@ -42,7 +42,7 @@ as a major ingredient for an interactive labeling editor.
 This is the QGIS labeling integration model of the open source project Hi-Labeling---an interactive labeling project developed at the  Institute of Logic and Computation, TU Wien, Vienna, Austria.
 So far our framework contains various labeling algoritghms, intrgated into the QGIS labeling engine.
 
-
+<iframe width="420" height="315" src="https://youtu.be/1yXoEF6kSD8" frameborder="0" allowfullscreen></iframe>
 
 
 ## Licence
